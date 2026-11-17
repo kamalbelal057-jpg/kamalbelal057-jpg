@@ -16,8 +16,6 @@ I got into Computer Engineering because I wanted to understand how hardware and 
 
 Beyond university lectures, I completed an intensive summer training track in Data Science and Machine Learning at the National Telecommunication Institute (NTI). During that training, I worked extensively with Jupyter notebooks, data cleaning pipelines, and predictive models, culminating in a capstone project for medical insurance cost prediction.
 
-When I'm not studying circuits or training models, I build real web applications. I work with Python, Django, HTML, CSS, and JavaScript to develop clean backend services and organized admin dashboards.
-
 ## Tech Stack & Tools
 
 | Category | Technologies |
